@@ -1,0 +1,10 @@
+SeniorCitizen
+tenure_scaled
+MonthlyCharges_scaled
+gender_enc
+Dependents_enc
+PhoneService_enc
+MultipleLines_enc
+InternetService_enc
+Contract_One year
+Contract_Two year

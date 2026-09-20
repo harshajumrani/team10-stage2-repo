@@ -1,0 +1,4 @@
+Total records: 7043
+Train set: 5634 records (80.0%), churn rate 26.5%
+Test set: 1409 records (20.0%), churn rate 26.5%
+Split method: stratified 80/20 split (random_state=42) preserving churn ratio
