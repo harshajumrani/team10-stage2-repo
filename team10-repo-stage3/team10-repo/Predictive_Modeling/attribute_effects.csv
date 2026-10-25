@@ -1,0 +1,10 @@
+attribute,pred_prob_if_no_%,pred_prob_if_yes_%,difference_pts
+Senior citizen,41.9,50.3,8.4
+Has dependents,45.2,37.7,-7.4
+Fiber optic (vs DSL),43.9,42.4,-1.5
+Phone service,48.8,42.1,-6.7
+Multiple lines,42.6,44.0,1.4
+Male (vs female),42.5,43.8,1.3
+Contract = Month-to-month,,44.6,
+Contract = One year,,42.9,
+Contract = Two year,,39.8,

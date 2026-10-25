@@ -1,0 +1,5 @@
+architecture,params,epochs_trained,val_auc,val_pr_auc
+A: 1 hidden layer (16),257,60,0.8112,0.6173
+B: 2 hidden layers (32-16),1025,25,0.8082,0.5994
+C: 2 hidden layers (64-32),3073,28,0.8135,0.6214
+D: 3 hidden layers (64-32-16),3585,47,0.8131,0.6139

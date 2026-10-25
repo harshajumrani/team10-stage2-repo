@@ -1,0 +1,5 @@
+segment,customers,share_of_test_%,actual_churn_rate_%,mean_predicted_probability_%,flagged_as_churn,flagged_%,actual_churners,churners_caught,recall_%,precision_%,within_segment_auc,share_of_all_churners_%
+"New, High-Spend (At-Risk)",444,31.5,50.0,69.3,286,64.4,222,173,77.9,60.5,0.705,59.4
+"New, Low-Spend",347,24.6,23.3,44.8,89,25.6,81,39,48.1,43.8,0.738,21.7
+"Loyal, High-Spend",408,29.0,14.7,30.2,5,1.2,60,4,6.7,80.0,0.679,16.0
+"Loyal, Low-Spend (Stable)",210,14.9,5.2,10.6,0,0.0,11,0,0.0,0.0,0.899,2.9

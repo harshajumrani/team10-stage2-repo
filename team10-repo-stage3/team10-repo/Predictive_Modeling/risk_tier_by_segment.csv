@@ -1,0 +1,5 @@
+Segment_Label,Low (<30%),Medium (30-66%),High (>=66%)
+"New, High-Spend (At-Risk)",3,155,286
+"New, Low-Spend",106,152,89
+"Loyal, High-Spend",215,188,5
+"Loyal, Low-Spend (Stable)",199,11,0

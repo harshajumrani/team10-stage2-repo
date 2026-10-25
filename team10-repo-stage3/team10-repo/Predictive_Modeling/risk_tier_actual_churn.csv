@@ -1,0 +1,4 @@
+risk_tier,customers,actual_churn_rate
+Low (<30%),523,5.9
+Medium (30-66%),506,25.1
+High (>=66%),380,56.8

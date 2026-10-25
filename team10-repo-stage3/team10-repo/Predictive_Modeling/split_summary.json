@@ -1,0 +1,24 @@
+{
+  "total_rows": 7043,
+  "train": {
+    "rows": 4788,
+    "churn_rate": 0.2655
+  },
+  "validation": {
+    "rows": 846,
+    "churn_rate": 0.2648
+  },
+  "test": {
+    "rows": 1409,
+    "churn_rate": 0.2654
+  },
+  "scaler_mean": {
+    "tenure": 32.5324,
+    "MonthlyCharges": 64.759
+  },
+  "scaler_std": {
+    "tenure": 24.649,
+    "MonthlyCharges": 30.3099
+  },
+  "n_features": 14
+}

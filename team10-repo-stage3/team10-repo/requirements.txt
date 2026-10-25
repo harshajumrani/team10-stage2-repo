@@ -1,0 +1,8 @@
+# Tested with: tensorflow 2.21, keras 3.15, scikit-learn 1.9, pandas 3.0, numpy 2.5, matplotlib 3.11
+tensorflow>=2.16
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3

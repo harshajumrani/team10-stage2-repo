@@ -1,0 +1,5 @@
+Segment,tenure,MonthlyCharges,count,pct_of_total,churn_rate_%,Label
+0,14.8,81.2,2202,31.3,49.2,"New, High-Spend (At-Risk)"
+1,10.5,32.5,1733,24.6,24.5,"New, Low-Spend"
+2,58.8,93.1,1948,27.7,15.7,"Loyal, High-Spend"
+3,54.1,34.2,1160,16.5,4.8,"Loyal, Low-Spend (Stable)"

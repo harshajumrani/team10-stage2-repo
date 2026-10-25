@@ -1,0 +1,26 @@
+attribute,value,customers,churn_rate_%
+Tenure band,0-6 m,1481,52.9
+Tenure band,7-12 m,705,35.9
+Tenure band,13-24 m,1024,28.7
+Tenure band,25-48 m,1594,20.4
+Tenure band,49-72 m,2239,9.5
+Charges band,<$30,1676,10.1
+Charges band,$30-50,682,30.4
+Charges band,$50-70,1194,22.2
+Charges band,$70-90,1821,37.0
+Charges band,$90+,1670,33.1
+SeniorCitizen,No,5901,23.6
+SeniorCitizen,Yes,1142,41.7
+Dependents,No,4933,31.3
+Dependents,Yes,2110,15.5
+Contract,Month-to-month,3875,27.3
+Contract,One year,1473,25.8
+Contract,Two year,1695,25.4
+InternetService,DSL,3947,27.4
+InternetService,Fiber optic,3096,25.4
+PhoneService,No,682,24.9
+PhoneService,Yes,6361,26.7
+MultipleLines,No,4072,26.5
+MultipleLines,Yes,2971,26.5
+gender,Female,3488,26.9
+gender,Male,3555,26.2
